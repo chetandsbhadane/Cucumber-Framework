@@ -3,7 +3,7 @@
 This project is a **Cucumber-Selenium framework** for automating the login functionality of a web application using **Excel (Apache POI)** to fetch test data.  
 
 ## **OUTPUT**
-![Test Execution Screenshot](CucumberFramework/target/Screenshot (56).png)
+![Test Execution Screenshot](https://github.com/chetandsbhadane/Cucumber-Framework/blob/main/CucumberFramework/target/Screenshot%20(56).png)
 
 ## 🚀 **Features**  
 
